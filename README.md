@@ -12,8 +12,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/agustinmalugani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agustin malugani" height="30" width="40" /></a>
-<a href="https://fb.com/agustin malugani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="agustin malugani" height="30" width="40" /></a>
-<a href="https://instagram.com/agustinmalugani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="agustinmalugani" height="30" width="40" /></a>
+<a href="https://www.facebook.com/share/1Xm6f2k4yC/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="agustin malugani" height="30" width="40" /></a>
+<a href="https://www.instagram.com/agustinmalugani?igsh=MXZmbXRzOXowcHZlbw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="agustinmalugani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
