@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Yo soy Agustin Malugani</h1>
+<h1 align="center">Hola 👋, Soy Agustin Malugani</h1>
 <h3 align="center">Backend developer, Rosario, Argentina</h3>
 
 - 🔭 Actualmente estoy trabajando en un proyecto llamado: **SaphireSouvenirs**
