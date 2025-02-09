@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Yo soy Agustin Malugani</h1>
 <h3 align="center">Backend developer, Rosario, Argentina</h3>
 
-- 🔭 Actualmente estoy trabajando en **SaphireSouvenirs**
+- 🔭 Actualmente estoy trabajando en un proyecto llamado: **SaphireSouvenirs**
 
 - 🌱 Actualmente estoy aprendiendo **React, Node, PostgreSQL**
 
