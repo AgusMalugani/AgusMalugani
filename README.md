@@ -1,6 +1,12 @@
 <h1 align="center">Hola 👋, Soy Agustin Malugani</h1>
 <h3 align="center">Backend developer, Rosario, Argentina</h3>
 
+Completé un curso intensivo de más de un año en Egg Corporation, donde adquirí habilidades clave para el trabajo en equipo y conocimientos técnicos en Java, Spring Boot, Spring Security y React.
+
+Posteriormente, profundicé mis conocimientos en Spring Boot y desarrollo de APIs RESTful a través de un curso especializado en la academia TodoCode, y actualmente me estoy preparando para adentrarme en el desarrollo de microservicios utilizando Java.
+
+Además, estoy finalizando el curso de Henry, con orientación Full Stack, lo que me ha permitido ampliar mi experiencia en JavaScript, TypeScript, Express, TypeORM, NestJS y React.
+
 - 🔭 Actualmente estoy trabajando en un proyecto llamado: **SaphireSouvenirs**
 
 - 🌱 Actualmente estoy aprendiendo **React, Node, PostgreSQL**
